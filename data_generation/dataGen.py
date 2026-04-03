@@ -241,4 +241,4 @@ timeseries_df = pd.DataFrame(rows)
 households_df.to_csv("households.csv", index=False)
 timeseries_df.to_csv("timeseries.csv", index=False)
 
-print("✅ Generated households.csv and timeseries.csv")
+print("Generated households.csv and timeseries.csv")
