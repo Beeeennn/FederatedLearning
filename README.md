@@ -30,9 +30,9 @@ This repository supports the submitted technical report by providing the source 
 ```text
 .
 ├── README.md
-├── EDA.ipynb
 ├── FederatedLearningPipeline.ipynb
 ├── data/
+│   ├── EDA.ipynb
 │   └── README.md
 ├── outputs/
 │   ├── figures/
